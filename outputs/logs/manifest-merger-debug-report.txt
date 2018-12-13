@@ -1,0 +1,159 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-gesture-handler] C:\Users\Inswitch\Desktop\orientation\node_modules\react-native-gesture-handler\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-orientation] C:\Users\Inswitch\Desktop\orientation\node_modules\react-native-orientation\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.57.8] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\react-native-0.57.8.aar\08fc32f9c6fb21fd98c580e4444887b1\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ab8bf44dd6bf0d9387f1fdd0dcbb491d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3d870acd1e177ae6fc1a88e72898c956\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\6d42bcca74591990745f0630815ecd63\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\cad64c4b06ce1ab10279896d2700e114\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\4a86e5db16cc1d605075c962e7ddce8c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\1a589fb96727982e4f714c20bb1b3d4b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\8b04576fc3434e33aa282a4db567f0cd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\204a6c6b485037b8c36f91be40ecb617\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\8d285f5e378d896c4407c2cd9df32235\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\af40a42cb300c50e40c7bbef9ce38be0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\dca8a31b8e22ce752eff7e377fd4fa43\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\64968d780331ecc3090e0b1c79ddabb9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\0aeaf6508ad1543e3ae0b4c6521382f7\AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\d0b6a60da783bc695d7eca366691d181\AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\204c5943d172b865a3afbe3de1d9bdd2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\24f917bf11aa71208ec5c8b7a1f9cbac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\1f112da408d208867daac172621b5248\AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f49fe70c430b931acc3409f585b4ce12\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\63b8865c72a65ca4b49080430dcd6559\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml:2:5-30
+		INJECTED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.8] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\react-native-0.57.8.aar\08fc32f9c6fb21fd98c580e4444887b1\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.8] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\react-native-0.57.8.aar\08fc32f9c6fb21fd98c580e4444887b1\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml:5:22-75
+application
+ADDED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.8] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\react-native-0.57.8.aar\08fc32f9c6fb21fd98c580e4444887b1\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.8] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\react-native-0.57.8.aar\08fc32f9c6fb21fd98c580e4444887b1\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\0aeaf6508ad1543e3ae0b4c6521382f7\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\0aeaf6508ad1543e3ae0b4c6521382f7\AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\d0b6a60da783bc695d7eca366691d181\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\d0b6a60da783bc695d7eca366691d181\AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml:8:7-38
+activity#com.orientation.MainActivity
+ADDED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] C:\Users\Inswitch\Desktop\orientation\node_modules\react-native-gesture-handler\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\Inswitch\Desktop\orientation\node_modules\react-native-gesture-handler\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-orientation] C:\Users\Inswitch\Desktop\orientation\node_modules\react-native-orientation\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-orientation] C:\Users\Inswitch\Desktop\orientation\node_modules\react-native-orientation\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.8] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\react-native-0.57.8.aar\08fc32f9c6fb21fd98c580e4444887b1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.8] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\react-native-0.57.8.aar\08fc32f9c6fb21fd98c580e4444887b1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ab8bf44dd6bf0d9387f1fdd0dcbb491d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ab8bf44dd6bf0d9387f1fdd0dcbb491d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3d870acd1e177ae6fc1a88e72898c956\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3d870acd1e177ae6fc1a88e72898c956\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\6d42bcca74591990745f0630815ecd63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\6d42bcca74591990745f0630815ecd63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\cad64c4b06ce1ab10279896d2700e114\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\cad64c4b06ce1ab10279896d2700e114\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\4a86e5db16cc1d605075c962e7ddce8c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\4a86e5db16cc1d605075c962e7ddce8c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\1a589fb96727982e4f714c20bb1b3d4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\1a589fb96727982e4f714c20bb1b3d4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\8b04576fc3434e33aa282a4db567f0cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\8b04576fc3434e33aa282a4db567f0cd\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\204a6c6b485037b8c36f91be40ecb617\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\204a6c6b485037b8c36f91be40ecb617\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\8d285f5e378d896c4407c2cd9df32235\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\8d285f5e378d896c4407c2cd9df32235\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\af40a42cb300c50e40c7bbef9ce38be0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\af40a42cb300c50e40c7bbef9ce38be0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\dca8a31b8e22ce752eff7e377fd4fa43\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\dca8a31b8e22ce752eff7e377fd4fa43\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\64968d780331ecc3090e0b1c79ddabb9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\64968d780331ecc3090e0b1c79ddabb9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\0aeaf6508ad1543e3ae0b4c6521382f7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\0aeaf6508ad1543e3ae0b4c6521382f7\AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\204c5943d172b865a3afbe3de1d9bdd2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\204c5943d172b865a3afbe3de1d9bdd2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\24f917bf11aa71208ec5c8b7a1f9cbac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\24f917bf11aa71208ec5c8b7a1f9cbac\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\1f112da408d208867daac172621b5248\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\1f112da408d208867daac172621b5248\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f49fe70c430b931acc3409f585b4ce12\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f49fe70c430b931acc3409f585b4ce12\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\63b8865c72a65ca4b49080430dcd6559\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Inswitch\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\63b8865c72a65ca4b49080430dcd6559\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Inswitch\Desktop\orientation\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
